@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Mercator-projection.ppm</file>
+        <file>markus.ppm</file>
+        <file>Marc_Dekamps.ppm</file>
+        <file>cow.png</file>
+    </qresource>
+</RCC>
